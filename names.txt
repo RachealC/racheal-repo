@@ -1,0 +1,6 @@
+name: Racheal Cheptegei
+Class: CIT Cohort 3
+Program: Python Programming
+Favorite food:Irish
+Favorite Colour: Green
+ 
